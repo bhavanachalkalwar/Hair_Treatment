@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kesh Sakhi - Hair Care Ayurvedic Companion
 
 A responsive website for Ayurvedic hair care consultations built with HTML5, CSS3, and vanilla JavaScript.
@@ -105,3 +106,6 @@ The project uses a Page Object Model structure:
 ## License
 
 This project is for educational purposes as part of an MCA final year project.
+=======
+# Hair_Treatment
+>>>>>>> a4d88825bf9f72105caf46d78af1d8fa95d7a68c
